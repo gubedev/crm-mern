@@ -1,0 +1,15 @@
+.sign-in-wrapper {
+    height: 100vh -76px;
+    margin-top: -76px;
+}
+
+#sign-in-form-container {
+    bottom: 0;
+    height: 100vh;
+    background-color: #fff;
+    -webkit-box-shadow: 0 0 15px rgba(0, 0, 0, 0.502);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.502);
+    z-index: 10;
+    overflow-y: auto;
+    padding: 40px;
+}
