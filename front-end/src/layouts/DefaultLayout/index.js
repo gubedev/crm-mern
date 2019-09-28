@@ -11,14 +11,12 @@ const DefaultLayout = ({ children }) => {
       <div id="preloader">
       </div>
       <Overlay />
-      <div id="wrapper">
-        <Navbar />
-        <Sidebar />
-        <ToastNotification />
-        <div className="page-wrapper">
-          <div id="main">
-            {children}
-          </div>
+      <Navbar />
+      <Sidebar />
+      <ToastNotification />
+      <div className="page-wrapper">
+        <div id="main">
+          {children}
         </div>
       </div>
     </div>
