@@ -2,8 +2,8 @@
 
 Basic setup for MERN project
 
-![screenshot](https://github.com/gubedev/crm-mern/blob/main/docs/screen-01.png)
-![screenshot](https://github.com/gubedev/crm-mern/blob/main/docs/screen-02.png)
+![screenshot](https://github.com/gubedev/crm-mern/blob/master/docs/screen-01.png)
+![screenshot](https://github.com/gubedev/crm-mern/blob/master/docs/screen-02.png)
 
 ## Begin 🚀
 
