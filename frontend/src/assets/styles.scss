@@ -1,0 +1,78 @@
+// Vendor
+@import "vendor/bootstrap";
+
+html body {
+  background-color: #eaeff2;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 1.5rem;
+  font-weight: 500;
+  line-height: 1.1;
+}
+
+.wrapper {
+  height: 100%;
+}
+
+.page-content {
+  margin-top: 4em;
+  width: 100%;
+  padding: 0;
+  min-height: 100vh;
+}
+
+.page-title-box .page-title {
+  font-size: 1.25rem;
+  margin: 0;
+  line-height: 75px;
+  color: #323a46;
+}
+
+.bg-blue {
+  background-color: #4a81d4;
+}
+
+.bg-success {
+  background-color: #1abc9c !important;
+}
+
+.bg-danger {
+  background-color: #f1556c !important;
+}
+
+.bg-warning {
+  background-color: #f7b84b !important;
+}
+
+.bg-soft-info {
+  background-color: rgba(79, 198, 225, 0.25) !important;
+}
+
+.bg-soft-success {
+  background-color: rgba(90, 208, 146, 0.25) !important;
+}
+
+.bg-soft-primary {
+  background-color: rgba(126, 87, 194, 0.25) !important;
+}
+
+.bg-soft-danger {
+  background-color: rgba(247, 89, 100, 0.25) !important;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+

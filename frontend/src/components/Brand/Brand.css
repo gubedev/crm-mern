@@ -1,0 +1,15 @@
+.brand {
+  color: #FFFFFF99;
+}
+
+.app-name {
+  line-height: 34px;
+  height: 34px;
+  width: 44px;
+  font-size: 14px;
+  text-align: center;
+  background-color: #FFFFFF99;
+  border-radius: 5px;
+  font-weight: bold;
+  color: #fff;
+}
